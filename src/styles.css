@@ -1,0 +1,52 @@
+.container{
+    left:500px;
+    top:250px;
+    position: relative;
+}
+
+.btn1{
+    margin:2em;
+    padding:0.5em;
+    color:white;
+    background-color:blue;
+    border-color: blue;
+    position:relative;
+}
+.btn2{
+    margin:2em;
+    padding:0.5em;
+    color:black;
+    background-color:lightgreen;
+    border-color:lightgreen;
+    position:relative;
+}
+.btn3{
+    margin:1em;
+    padding:0.5em;
+    color:black;
+    background-color:red;
+    border-color:red;
+    position:relative;
+}
+.inpt{
+    width:300px;
+    height:30px;
+    border-color:darkgreen;
+    position:relative;
+
+}
+
+.textInput {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #dfdfdf;
+  }
+  .btn4{
+    margin:2em;
+    padding:0.5em;
+    color:white;
+    background-color:blue;
+    border-color: blue;
+    position:relative;
+ 
+  }
